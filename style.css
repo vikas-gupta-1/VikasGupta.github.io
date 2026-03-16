@@ -1,0 +1,7 @@
+/* Standard Reset */
+html { scroll-behavior: smooth; }
+body {
+    line-height: 1.6;
+    background: radial-gradient(circle at top right, #1e293b, #0f172a);
+    min-height: 100vh;
+}
